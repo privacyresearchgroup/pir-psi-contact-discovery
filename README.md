@@ -4,6 +4,7 @@ We prototype the PSI scheme detailed in [Scaling Mobile Private Contact Discover
 
 We also include an implementation of Checklist PIR on a partitioned database (DB-PIR).
 
+This work was done by [Kameron Shahabi](https://kyshahab.github.io/) during Summer research with [Privacy Research LLC](https://privacyresearch.io/).
 ## Usage
 This repo includes code for two different experiments. Communication experiments output the communication and time taken to run the protocol on a single client. Throughput experiments measure the time taken to serve 10 clients concurrently.
 
